@@ -8,6 +8,8 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent Blog Posts
 <!--START_SECTION:feed-->
+- [Implementing Simple Feature Toggles In AspNetCore Using IConfiguration](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;08&#x2F;implementing-simple-feature-toggles-in-aspnetcore-using-iconfiguration&#x2F;) 
+*Recently, we&amp;rsquo;ve had the need to build a few feature toggles in our applications that can be changed at runtime. This article walks through a simple approach that you can use in your applications, including a description of a route to dynamic feature toggles.*
 - [Architecture Pathway Introduction](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;07&#x2F;architecture-pathway-introduction&#x2F;) 
 *Over the past year or so, I&amp;rsquo;ve had the pleasure of mentoring people on their software development journeys. Some of those personnel have expressed a desire to pursue the software architect route. As it&amp;rsquo;s something that I often refer to, I&amp;rsquo;ve decided to post a mini-pathway to help guide on some of the basics.*
 - [My Favourite Git Aliases](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;07&#x2F;my-favourite-git-aliases&#x2F;) 
@@ -26,6 +28,4 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 *Recently, I&amp;rsquo;ve been playing with the new diagnostic improvements in .Net Core 3. Traditionally, I&amp;rsquo;ve always used the great AppMetrics package to capture the metrics from our applications and send scrape them with a Prometheus &amp; Grafana setup. Whilst reading about the improvements, I wondered whether or not it would be possible to push metrics to Prometheus.*
 - [Quick Tip: Accessing a Azure DevOps secret from within a scripted step](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2018&#x2F;12&#x2F;quick-tip-accessing-a-azure-devops-secret-from-within-a-scripted-step&#x2F;) 
 *In today&amp;rsquo;s quick tip, we are going to see how we can access a secret that we&amp;rsquo;ve defined in a variable group as part of a Azure DevOps yml based build.*
-- [Building a custom build agent image with Docker and Azure DevOps pipelines](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2018&#x2F;12&#x2F;building-a-custom-build-agent-image-with-docker-and-azure-devops-pipelines&#x2F;) 
-*In this article, we will learn how to use a custom dockerfile as the bases for a customised Azure DevOps build agent. There are many reasons why you might want to do this, including running custom tooling that takes a while to setup or tooling that isn&amp;rsquo;t supported yet.*
 <!--END_SECTION:feed-->
