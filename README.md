@@ -8,6 +8,10 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent Blog Posts
 <!--START_SECTION:feed-->
+- [Setting Up A Repository Template In Github For K6](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;10&#x2F;setting-up-a-repository-template-in-github-for-k6&#x2F;) 
+*In my previous article, we took a look at setting up a template repository for our .Net projects. Repository templates can massively help with the consistency and startup speed of a new project. In this article, we will take a look at a different repository template that I&amp;rsquo;ve been using for work for running our performance tests.*
+- [Setting Up A Repository Template In Github For .Net](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;10&#x2F;setting-up-a-repository-template-in-github-for-.net&#x2F;) 
+*Over the past few weeks, I&amp;rsquo;ve been updating some of my projects to latest standards, adding in Github Actions where appropriate etc. Most recently I&amp;rsquo;ve setup a template repository in Github.*
 - [Implementing Simple Feature Toggles In AspNetCore Using IConfiguration](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;08&#x2F;implementing-simple-feature-toggles-in-aspnetcore-using-iconfiguration&#x2F;) 
 *Recently, we&amp;rsquo;ve had the need to build a few feature toggles in our applications that can be changed at runtime. This article walks through a simple approach that you can use in your applications, including a description of a route to dynamic feature toggles.*
 - [Architecture Pathway Introduction](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;07&#x2F;architecture-pathway-introduction&#x2F;) 
@@ -24,8 +28,4 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 *Today, I have been doing a general tidy up of my blog repository. One of the things that I decided to do, was reduce the overall amount of whitespace in the generated html files.*
 - [Diagnostics in .Net Core 3: Using dotnet-counters with Docker](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;01&#x2F;diagnostics-in-.net-core-3-using-dotnet-counters-with-docker&#x2F;) 
 *In my previous post, I described how we can leverage the new EventCounter diagnostics API to add custom event counters and listen for built in counters. In this article, I will walk through how we can leverage the dotnet-counters tool with a running docker image.*
-- [Diagnostics in .Net Core 3: Event Counters](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;01&#x2F;diagnostics-in-.net-core-3-event-counters&#x2F;) 
-*Recently, I&amp;rsquo;ve been playing with the new diagnostic improvements in .Net Core 3. Traditionally, I&amp;rsquo;ve always used the great AppMetrics package to capture the metrics from our applications and send scrape them with a Prometheus &amp; Grafana setup. Whilst reading about the improvements, I wondered whether or not it would be possible to push metrics to Prometheus.*
-- [Quick Tip: Accessing a Azure DevOps secret from within a scripted step](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2018&#x2F;12&#x2F;quick-tip-accessing-a-azure-devops-secret-from-within-a-scripted-step&#x2F;) 
-*In today&amp;rsquo;s quick tip, we are going to see how we can access a secret that we&amp;rsquo;ve defined in a variable group as part of a Azure DevOps yml based build.*
 <!--END_SECTION:feed-->
