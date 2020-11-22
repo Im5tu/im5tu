@@ -8,6 +8,8 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent Blog Posts
 <!--START_SECTION:feed-->
+- [A Look Into CloudEvents](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;11&#x2F;a-look-into-cloudevents&#x2F;) 
+*Over the past few months, I&amp;rsquo;ve been looking into the internal architecture setup for Checkout.com and seeing how we can scale it for the next few years. As part of that research, I&amp;rsquo;ve been looking into the CloudEvents specification as a potential option as the basis for a common event schema across teams.*
 - [Setting Up A Repository Template In Github For K6](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;10&#x2F;setting-up-a-repository-template-in-github-for-k6&#x2F;) 
 *In my previous article, we took a look at setting up a template repository for our .Net projects. Repository templates can massively help with the consistency and startup speed of a new project. In this article, we will take a look at a different repository template that I&amp;rsquo;ve been using for work for running our performance tests.*
 - [Setting Up A Repository Template In Github For .Net](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;10&#x2F;setting-up-a-repository-template-in-github-for-.net&#x2F;) 
@@ -26,6 +28,4 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 *Throughout the course of my Diagnostics in .Net Core series, we&amp;rsquo;ve taken a look at the basics of how to use the Event Counters API. In this article, we will take a look at how we can capture all outbound HTTP requests automatically as they occur.*
 - [Quick Tip: Minification of assets with Hugo](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;05&#x2F;quick-tip-minification-of-assets-with-hugo&#x2F;) 
 *Today, I have been doing a general tidy up of my blog repository. One of the things that I decided to do, was reduce the overall amount of whitespace in the generated html files.*
-- [Diagnostics in .Net Core 3: Using dotnet-counters with Docker](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;01&#x2F;diagnostics-in-.net-core-3-using-dotnet-counters-with-docker&#x2F;) 
-*In my previous post, I described how we can leverage the new EventCounter diagnostics API to add custom event counters and listen for built in counters. In this article, I will walk through how we can leverage the dotnet-counters tool with a running docker image.*
 <!--END_SECTION:feed-->
