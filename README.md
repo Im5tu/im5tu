@@ -8,6 +8,8 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent Blog Posts
 <!--START_SECTION:feed-->
+- [Using Moq with ref, in and out parameters in C#](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;11&#x2F;using-moq-with-ref-in-and-out-parameters-in-c&#x2F;) 
+*In this article, I want to take a look at a scenario that I came across this week which I&amp;rsquo;ve come across a few times. Occasionally, you will have an interface that you wish to mock out with Moq and find you have troubles because the method signature takes a ref or an out parameter. This week, I&amp;rsquo;ve found a way that we can successfully mock the method without too much of a change to the test code.*
 - [A Look Into CloudEvents](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;11&#x2F;a-look-into-cloudevents&#x2F;) 
 *Over the past few months, I&amp;rsquo;ve been looking into the internal architecture setup for Checkout.com and seeing how we can scale it for the next few years. As part of that research, I&amp;rsquo;ve been looking into the CloudEvents specification as a potential option as the basis for a common event schema across teams.*
 - [Setting Up A Repository Template In Github For K6](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;10&#x2F;setting-up-a-repository-template-in-github-for-k6&#x2F;) 
@@ -26,6 +28,4 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 *In my previous article we took a look at how to monitor outbound HTTP requests using a DiagnosticListener. In this article, we will re-use some of the same components to monitor inbound HTTP requests. We could use middleware to do as most approaches do, but this approach is highly dependent on the middleware that you have and the duration of this, so we will re-use some of the code from last time.*
 - [Diagnostics in .Net Core 3: Listening to outbound HTTP requests](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;06&#x2F;diagnostics-in-.net-core-3-listening-to-outbound-http-requests&#x2F;) 
 *Throughout the course of my Diagnostics in .Net Core series, we&amp;rsquo;ve taken a look at the basics of how to use the Event Counters API. In this article, we will take a look at how we can capture all outbound HTTP requests automatically as they occur.*
-- [Quick Tip: Minification of assets with Hugo](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;05&#x2F;quick-tip-minification-of-assets-with-hugo&#x2F;) 
-*Today, I have been doing a general tidy up of my blog repository. One of the things that I decided to do, was reduce the overall amount of whitespace in the generated html files.*
 <!--END_SECTION:feed-->
