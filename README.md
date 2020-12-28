@@ -8,6 +8,8 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent Blog Posts
 <!--START_SECTION:feed-->
+- [Blending Metrics Using EventCounters In C#](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;12&#x2F;blending-metrics-using-eventcounters-in-c&#x2F;) 
+*In a world where we use auto-scaling a lot, its often not just one metric that we will take into consideration when deciding whether or not to scale our applications. For example, we might have a combination of CPU usage, memory usage and web request latency. Some services like AWS CloudWatch Metrics only allow scaling based off a single value. Luckily, we can blend metrics together to create new ones, which we can then use in our scaling policies. A blended metric is made up of however one or more existing metrics that you choose, called aspects, and can be published as if it were any other metric, eg: publish to DataDog&#x2F;Cloudwatch.*
 - [Publish Metrics to Cloudwatch in .NET Core](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;12&#x2F;publish-metrics-to-cloudwatch-in-.net-core&#x2F;) 
 *In a previous post I took a look at how we can utilize .NET event counters to record metrics in our applications. However, I never covered the implementation of how I write the metrics to either CloudWatch or DataDog. In this article, I&amp;rsquo;m going to take a look at how to publish metrics to CloudWatch and one way of integrating it with the aforementioned blog series.*
 - [Building a Zero Trust Architecture In AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;12&#x2F;building-a-zero-trust-architecture-in-aws&#x2F;) 
@@ -26,6 +28,4 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 *Over the past year or so, I&amp;rsquo;ve had the pleasure of mentoring people on their software development journeys. Some of those personnel have expressed a desire to pursue the software architect route. As it&amp;rsquo;s something that I often refer to, I&amp;rsquo;ve decided to post a mini-pathway to help guide on some of the basics.*
 - [My Favourite Git Aliases](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;07&#x2F;my-favourite-git-aliases&#x2F;) 
 *Git aliases are used to create new git commands that can either invoke a function, or be used to create commands that map to longer commands. For example, we could map git co to git checkout or have git undo undo our previous commit. In this article, I&amp;rsquo;m going to show you some of my favourite git aliases.*
-- [Diagnostics in .Net Core 3: An alternative approach to using dotnet-counters with Docker](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;06&#x2F;diagnostics-in-.net-core-3-an-alternative-approach-to-using-dotnet-counters-with-docker&#x2F;) 
-*In a previous article, we took a look at a way to use dotnet-counters with an external image. This article takes a look at how we can embed the tooling that we require into the image so that we extract the counter&#x2F;memory information as required. This approach does not require elevated permissions as before.*
 <!--END_SECTION:feed-->
