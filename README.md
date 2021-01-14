@@ -8,16 +8,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
-- ![Timers &amp; Reminders, backed by DynamoDB in Microsoft Orleans - CodeWithStu]() [Timers &amp; Reminders, backed by DynamoDB in Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SKI_YUMSqgM) 
-**
-- ![Working With Microsoft Orleans Call Filters - CodeWithStu]() [Working With Microsoft Orleans Call Filters - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;UlDKzLEt-Gk) 
-**
-- ![Clustering Microsoft Orleans with DynamoDB - CodeWithStu]() [Clustering Microsoft Orleans with DynamoDB - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ueGmmXKROWY) 
-**
-- ![Persisting Microsoft Orleans Grain State With DynamoDB - CodeWithStu]() [Persisting Microsoft Orleans Grain State With DynamoDB - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;q8nFqQ-8wLw) 
-**
-- ![Introduction to Microsoft Orleans - CodeWithStu]() [Introduction to Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;yM-gpuw1uhM) 
-**
+- [Timers &amp; Reminders, backed by DynamoDB in Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SKI_YUMSqgM)
+- [Working With Microsoft Orleans Call Filters - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;UlDKzLEt-Gk)
+- [Clustering Microsoft Orleans with DynamoDB - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ueGmmXKROWY)
+- [Persisting Microsoft Orleans Grain State With DynamoDB - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;q8nFqQ-8wLw)
+- [Introduction to Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;yM-gpuw1uhM)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
