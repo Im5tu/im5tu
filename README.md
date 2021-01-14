@@ -2,12 +2,15 @@
 
 I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Checkout.com](https://www.checkout.com). I work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
 
+- 🌱 AWS Certified Solutions Architect Associate & AWS Certified Developer Associate
+- 📫 You can watch my [YouTube](https://bit.ly/im5tu-yt-sub) videos all on things .NET, contact me on [Twitter](https://bit.ly/im5tu-tw) and read a few entries on [my blog](https://bit.ly/im5tu-articles)
 - 🔭 I’m currently working on build out [OpenMessage](https://github.com/im5tu/OpenMessage) (my experimental messaging framework) & [Rafters](https://github.com/im5tu/Rafters) (an experiment in building out RAFT consensus in C#).
-- 🌱 I’m currently learning for my AWS Architect exams & streaming systems
-- 📫 You can contact me on [Twitter](https://twitter.com/im5tu) and read a few entries on [my blog](https://im5tu.io)
 
+### Recent YouTube videos
+<!--START_SECTION:youtube-->
+<!--END_SECTION:youtube-->
 ### Recent Blog Posts
-<!--START_SECTION:feed-->
+<!--START_SECTION:blog-->
 - [Blending Metrics Using EventCounters In C#](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;12&#x2F;blending-metrics-using-eventcounters-in-c&#x2F;) 
 *In a world where we use auto-scaling a lot, its often not just one metric that we will take into consideration when deciding whether or not to scale our applications. For example, we might have a combination of CPU usage, memory usage and web request latency. Some services like AWS CloudWatch Metrics only allow scaling based off a single value. Luckily, we can blend metrics together to create new ones, which we can then use in our scaling policies. A blended metric is made up of however one or more existing metrics that you choose, called aspects, and can be published as if it were any other metric, eg: publish to DataDog&#x2F;Cloudwatch.*
 - [Publish Metrics to Cloudwatch in .NET Core](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;12&#x2F;publish-metrics-to-cloudwatch-in-.net-core&#x2F;) 
@@ -28,4 +31,4 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 *Over the past year or so, I&amp;rsquo;ve had the pleasure of mentoring people on their software development journeys. Some of those personnel have expressed a desire to pursue the software architect route. As it&amp;rsquo;s something that I often refer to, I&amp;rsquo;ve decided to post a mini-pathway to help guide on some of the basics.*
 - [My Favourite Git Aliases](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2020&#x2F;07&#x2F;my-favourite-git-aliases&#x2F;) 
 *Git aliases are used to create new git commands that can either invoke a function, or be used to create commands that map to longer commands. For example, we could map git co to git checkout or have git undo undo our previous commit. In this article, I&amp;rsquo;m going to show you some of my favourite git aliases.*
-<!--END_SECTION:feed-->
+<!--END_SECTION:blog-->
