@@ -16,7 +16,7 @@ jobs:
           readme-section: youtube
           max: 5 # max number of items (default 5)
           #template: "- ![{{ title }}]({{ thumbnail }}) [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
-          template: "- [{{ title }}]({{ link }})"
+          template: "- [{{ title }}]({{ link }})\n {{ group.thumbnail }}"
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://im5tu.io/index.xml
