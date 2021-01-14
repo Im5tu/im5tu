@@ -9,15 +9,15 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
 - [Timers &amp; Reminders, backed by DynamoDB in Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SKI_YUMSqgM)
- 
+ https://img.youtube.com/vi//0.jpg
 - [Working With Microsoft Orleans Call Filters - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;UlDKzLEt-Gk)
- 
+ https://img.youtube.com/vi//0.jpg
 - [Clustering Microsoft Orleans with DynamoDB - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ueGmmXKROWY)
- 
+ https://img.youtube.com/vi//0.jpg
 - [Persisting Microsoft Orleans Grain State With DynamoDB - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;q8nFqQ-8wLw)
- 
+ https://img.youtube.com/vi//0.jpg
 - [Introduction to Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;yM-gpuw1uhM)
- 
+ https://img.youtube.com/vi//0.jpg
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
