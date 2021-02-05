@@ -8,11 +8,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [AWS Architecture Design Walkthrough - Global Lifts Scenario - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;xd_TElOedew)
 - [Building Better NuGet Packages - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;PCGlSt1WAOo)
 - [Stateless Workers in Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;D2aD4ftLs14)
 - [5 Tips To Hack Your .NET Builds - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;b4biMCcEzdA)
 - [Timers &amp; Reminders, backed by DynamoDB in Microsoft Orleans - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SKI_YUMSqgM)
-- [Working With Microsoft Orleans Call Filters - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;UlDKzLEt-Gk)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
