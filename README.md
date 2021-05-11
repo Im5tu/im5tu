@@ -8,11 +8,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [My 3 Commonly Used Github Actions - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4xocB0-bKQM)
 - [Use Git Hooks To Automate Your Workflow - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4QQdLDm1vLM)
 - [Cleanup Transitive Dependencies in .NET with Snitch- CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZdCn6kpGBhI)
 - [Add Simple Distributed Tracing in .NET Libraries - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;wjglj4jE18Y)
 - [Get Started With OpenTelemetry and ASP.NET Core - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;g0G9M6AuTdo)
-- [AWS Architecture Design Walkthrough - Global Lifts Scenario - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;xd_TElOedew)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
