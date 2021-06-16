@@ -4,7 +4,7 @@ I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Check
 
 - 🌱 AWS Certified Solutions Architect Associate & AWS Certified Developer Associate
 - 📫 You can watch my [YouTube](https://bit.ly/im5tu-yt-sub) videos all on things .NET, contact me on [Twitter](https://bit.ly/im5tu-tw) and read a few entries on [my blog](https://bit.ly/im5tu-articles)
-- 🔭 I’m currently working on build out [OpenMessage](https://github.com/im5tu/OpenMessage) (my experimental messaging framework) & [Rafters](https://github.com/im5tu/Rafters) (an experiment in building out RAFT consensus in C#).
+- 🔭 I’m currently working on build out [Aspect](https://github.com/im5tu/Aspect) - automated cloud policy verification
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
