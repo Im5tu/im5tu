@@ -18,9 +18,11 @@ jobs:
           #template: "- ![{{ title }}]({{ thumbnail }}) [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
           #template: "- [{{ title }}]({{ link }})\n https://img.youtube.com/vi/{{ yt.videoId }}/0.jpg"
           template: "- [{{ title }}]({{ link }})"
+          empty-commits: false
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://im5tu.io/index.xml
           readme-section: blog
           max: 5 # max number of items (default 5)
           template: "- [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          empty-commits: false
