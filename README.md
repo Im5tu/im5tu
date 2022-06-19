@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Stu, it's a pleasure to e-meet you! I'm part of the platform teams at [Checkout.com](https://www.checkout.com). I work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
+I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some of the worlds biggest FinTech's and hottest Startups. I mainly work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
 
 - 🌱 AWS Certified Solutions Architect Associate & AWS Certified Developer Associate
 - 📫 You can watch my [YouTube](https://bit.ly/im5tu-yt-sub) videos all on things .NET, contact me on [Twitter](https://bit.ly/im5tu-tw) and read a few entries on [my blog](https://bit.ly/im5tu-articles)
-- 🔭 I’m currently working on build out [Aspect](https://github.com/im5tu/Aspect) - automated cloud policy verification
+- 🔭 I’m currently working on build out [Project Keas](https://github.com/projectkeas) - a systemm for cloud event automation
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
