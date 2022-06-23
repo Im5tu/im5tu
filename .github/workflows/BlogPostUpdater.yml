@@ -1,5 +1,6 @@
 name: Update readme with blog posts
-on: 
+on:
+  workflow_dispatch:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
