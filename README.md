@@ -13,11 +13,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
-- [How to use Git to Save your .NET Source Generator Output Files - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;eX3ZcOITOMI)
-- [Github Issue Templates: A Look at the New Issue Templates - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;o3E3LwzhLcc)
-- [Publish Release Assets With The Github CLI - CodeWithStu #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;YJSxUAsxTWs)
-- [Distribute your csproj settings via NuGet - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;V5wJeN3Ntqc)
-- [How to Increase App Reliability With Polly - 3 Ways To Increase Your Apps Performance  - CodeWithStu](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4mWkb3tHDf0)
+- [How to use Git to Save your .NET Source Generator Output Files](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;eX3ZcOITOMI)
+- [Github Issue Templates: A Look at the New Issue Templates](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;o3E3LwzhLcc)
+- [Publish Release Assets With The Github CLI #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;YJSxUAsxTWs)
+- [Distribute your csproj settings via NuGet](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;V5wJeN3Ntqc)
+- [How to Increase App Reliability With Polly - 3 Ways To Increase Your Apps Performance](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;4mWkb3tHDf0)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
