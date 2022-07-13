@@ -13,11 +13,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [Metrics in .NET has never been easier - OpenTelemetry](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Gx8zNOcQSm8)
 - [How to Setup OpenTelemetry Logging in .NET](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;QU_o24OZeIw)
 - [How to Use NuGet Packages in Source Generators](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;wp-dxZXRkJ4)
 - [Possibly The Quickest Package Versioning on .NET? #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;0PJgh8FftZM)
 - [Push Code To A Different Repo With Github Actions #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;dcSy8uCxOfk)
-- [How to use Git to Save your .NET Source Generator Output Files](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;eX3ZcOITOMI)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
