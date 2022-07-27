@@ -13,11 +13,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [How to set up OpenTelemetry Collector on Kubernetes](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;GJAhtrc5IbQ)
 - [Live: Systems Design - Stock Tick API](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;jSSsRMD3RUY)
 - [Running an OpenTelemetry Collector locally with Docker](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;RaK9ocku-M4)
 - [Metrics in .NET has never been easier - OpenTelemetry](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Gx8zNOcQSm8)
 - [How to Setup OpenTelemetry Logging in .NET](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;QU_o24OZeIw)
-- [How to Use NuGet Packages in Source Generators](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;wp-dxZXRkJ4)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
