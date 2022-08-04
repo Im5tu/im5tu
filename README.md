@@ -13,9 +13,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [Live: AWS Multi-Account Structure Design](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DxxtGEekhJY)
 - [.NET 7 Reflection Improvements Can&#39;t Beat THIS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;AlI-lYmUOaA)
 - [How to set up OpenTelemetry Collector on Kubernetes](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;GJAhtrc5IbQ)
-- [Live: Systems Design - Stock Tick API](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;jSSsRMD3RUY)
 - [Running an OpenTelemetry Collector locally with Docker](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;RaK9ocku-M4)
 - [Metrics in .NET has never been easier - OpenTelemetry](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Gx8zNOcQSm8)
 <!--END_SECTION:youtube-->
