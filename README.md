@@ -13,11 +13,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [Using PASETO in .NET - #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;I9vaRNujs8o)
+- [Live AWS System Design: Payments Gateway](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;cSetznf9CWA)
 - [A New Way to Create Time Restricted Endpoints in .NET](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;oNQdDjvS_54)
 - [Live: AWS Multi-Account Structure Design](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;DxxtGEekhJY)
 - [Live: Systems Design - Stock Tick API](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;jSSsRMD3RUY)
-- [.NET 7 Reflection Improvements Can&#39;t Beat THIS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;AlI-lYmUOaA)
-- [How to set up OpenTelemetry Collector on Kubernetes](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;GJAhtrc5IbQ)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
