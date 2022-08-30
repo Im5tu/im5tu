@@ -13,7 +13,7 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
-- [.NET 7 Serializer Performance Comparison: A New King Is Born?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;XMoNYQPi2k8)
+- [The fastest .NET Serializer is NOT what you think](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;XMoNYQPi2k8)
 - [.NET 7 - Pattern Matching With Spans #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;fw3V9-obCDw)
 - [.NET 7 - PatchAsync &amp; PatchAsJsonAsync #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;KJrCjE8VLjk)
 - [.NET 7: 10 New Features You Need to Know](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;6USQ3_81wQM)
