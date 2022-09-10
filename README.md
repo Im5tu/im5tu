@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/-@im5tu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/CodeWithStu)
+[![](https://img.shields.io/badge/-@CodeWithStu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/CodeWithStu)
 [![](https://img.shields.io/badge/-CodeWithStu-white?style=flat-square&logo=discord)](https://discord.codewithstu.tv)
 [![](https://img.shields.io/badge/-@im5tu-black?style=flat-square&logo=github)](https://bit.ly/im5tu-github)
 [![](https://img.shields.io/badge/-@im5tu-red?style=flat-square&logo=youtube)](https://bit.ly/im5tu-yt-sub)
