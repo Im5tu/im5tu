@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/-@im5tu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://bit.ly/im5tu-tw)
+[![](https://img.shields.io/badge/-@im5tu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/CodeWithStu)
+[![](https://img.shields.io/badge/-CodeWithStu-white?style=flat-square&logo=discord)](https://discord.codewithstu.tv)
 [![](https://img.shields.io/badge/-@im5tu-black?style=flat-square&logo=github)](https://bit.ly/im5tu-github)
-[![](https://img.shields.io/badge/-@im5tu-red?style=flat-square&logo=youtube)](https://bit.ly/im5tu-yt)
+[![](https://img.shields.io/badge/-@im5tu-red?style=flat-square&logo=youtube)](https://bit.ly/im5tu-yt-sub)
 [![](https://img.shields.io/badge/-Stuart%20Blackler-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://bit.ly/im5tu-li)
 
 I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some of the worlds biggest FinTech's and hottest Startups. I mainly work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
 
 - 🌱 AWS Certified Solutions Architect Associate & AWS Certified Developer Associate
-- 📫 You can watch my [YouTube](https://bit.ly/im5tu-yt-sub) videos all on things .NET, contact me on [Twitter](https://bit.ly/im5tu-tw) and read a few entries on [my blog](https://bit.ly/im5tu-articles)
+- 📫 You can watch my [YouTube](https://bit.ly/im5tu-yt-sub) videos all on things .NET, contact me on [Twitter](https://twitter.com/CodeWithStu) and read a few entries on [my blog](https://bit.ly/im5tu-articles)
 - 🔭 I’m currently working on build out [Project Keas](https://github.com/projectkeas) - a systemm for cloud event automation
 
 ### Recent YouTube videos
