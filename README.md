@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-CodeWithStu-red?style=flat-square&logo=youtube)](https://bit.ly/im5tu-yt-sub)
 [![](https://img.shields.io/badge/-Stuart%20Blackler-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://bit.ly/im5tu-li)
 
-I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some of the worlds biggest FinTech's and hottest Startups. I mainly work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
+I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helping start ups grow utilizing .NET Core and high-quality, performant micro-services based on AWS. I mainly work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
 
 - 🌱 AWS Certified Solutions Architect Associate & AWS Certified Developer Associate
 - 📫 You can watch my [YouTube](https://bit.ly/im5tu-yt-sub) videos all on things .NET, contact me on [Twitter](https://twitter.com/CodeWithStu) and read a few entries on [my blog](https://bit.ly/im5tu-articles)
