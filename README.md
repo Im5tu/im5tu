@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@CodeWithStu-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/CodeWithStu)
 [![](https://img.shields.io/badge/-CodeWithStu-white?style=flat-square&logo=discord)](https://discord.codewithstu.tv)
 [![](https://img.shields.io/badge/-@im5tu-black?style=flat-square&logo=github)](https://bit.ly/im5tu-github)
-[![](https://img.shields.io/badge/-@im5tu-red?style=flat-square&logo=youtube)](https://bit.ly/im5tu-yt-sub)
+[![](https://img.shields.io/badge/-CodeWithStu-red?style=flat-square&logo=youtube)](https://bit.ly/im5tu-yt-sub)
 [![](https://img.shields.io/badge/-Stuart%20Blackler-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://bit.ly/im5tu-li)
 
 I'm Stu, it's a pleasure to e-meet you! I'm a principal engineer working at some of the worlds biggest FinTech's and hottest Startups. I mainly work on a variety of projects, including testing out new technologies, performance & scalability, streamlining product teams and general devops stuff.
