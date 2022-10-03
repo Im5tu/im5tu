@@ -22,6 +22,12 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [ASP.NET Core Versioning: MVC APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;asp.net-core-versioning-mvc-apis&#x2F;) 
+*This blog post is also available as a video on my YouTube Channel.
+If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
+- [Pro Testing with Xunit &amp; Localstack](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;pro-testing-with-xunit-localstack&#x2F;) 
+*This blog post is also available as a video on my YouTube Channel.
+Ever wondered how to get docker images to run nicely with XUnit tests? Then you’re in the right place. Let me show you how to setup Localstack with XUnit properly so that the only thing you need to worry about is having docker running. I’m using Localstack as the example but you can repeat a very similar process using the techniques shown here.*
 - [Video Content Round Up: June 2022](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;06&#x2F;video-content-round-up-june-2022&#x2F;) 
 *Over the past month I’ve rebooted my YouTube Channel as I’ve had some additional time to sit down and think about how I want things to go moving forward. Here are some of the key updates from the channel. Be sure to take a look and let me know your thoughts.
 Style Updates As with any reboot, you take a look at what’s there initially and see what can be improved.*
@@ -29,8 +35,4 @@ Style Updates As with any reboot, you take a look at what’s there initially an
 *In this article, we’re going to take a look at the different ways that you can make your .NET applications more stable by using 3 different patterns: Retrying with decorrelated jitter, bulkheads and circuit breakers.*
 - [Creating a private helm repository using Github Pages Enterprise](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;01&#x2F;creating-a-private-helm-repository-using-github-pages-enterprise&#x2F;) 
 *In this article, we’re going to take a look at how to create a private Helm repository with Github Pages. This guide requires you to have a Github Enterprise license as private Github Pages are only available to enterprise customers. I’m showing this approach for the scenarios where setting up something like ChartMuseum isn’t possible or unwanted. Although this guide uses helm as the example, you can extend this to host anything under a privately authenticated Github page.*
-- [Extending the AWS SDK for .Net](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;01&#x2F;extending-the-aws-sdk-for-.net&#x2F;) 
-*In this article we’re taking a look at how to extend the AWS SDK for .NET, which can be useful for various tasks like adding in some custom observability components into the request pipeline. This article is a companion resource for the video linked above in case you prefer a written version. I’m actively using the approach described here to implement distributed tracing with OpenTelemetry for all AWS calls at work.*
-- [Things you might not know about CSharp - Duck Typing](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;01&#x2F;things-you-might-not-know-about-csharp-duck-typing&#x2F;) 
-*This is the next part of my series taking a look at some of the lesser known features of the C# language. Today we will be looking at duck typing and how it is used in C#. Much like the previous article, your millage may vary in terms of actually using these features for day to day programming, so think of this series as raising awareness that these things exist, not that you should use for general purpose programming. Without further adieu…*
 <!--END_SECTION:blog-->
