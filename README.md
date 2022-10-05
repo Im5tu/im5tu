@@ -22,6 +22,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [ASP.NET Core Versioning: Minimal APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;10&#x2F;asp.net-core-versioning-minimal-apis&#x2F;) 
+*This blog post is also available as a video on my YouTube Channel.
+If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
 - [ASP.NET Core Versioning: MVC APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;asp.net-core-versioning-mvc-apis&#x2F;) 
 *This blog post is also available as a video on my YouTube Channel.
 If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
@@ -33,6 +36,4 @@ Ever wondered how to get docker images to run nicely with XUnit tests? Then you�
 Style Updates As with any reboot, you take a look at what’s there initially and see what can be improved.*
 - [3 Ways To Increase App Reliability With Polly](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;02&#x2F;3-ways-to-increase-app-reliability-with-polly&#x2F;) 
 *In this article, we’re going to take a look at the different ways that you can make your .NET applications more stable by using 3 different patterns: Retrying with decorrelated jitter, bulkheads and circuit breakers.*
-- [Creating a private helm repository using Github Pages Enterprise](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;01&#x2F;creating-a-private-helm-repository-using-github-pages-enterprise&#x2F;) 
-*In this article, we’re going to take a look at how to create a private Helm repository with Github Pages. This guide requires you to have a Github Enterprise license as private Github Pages are only available to enterprise customers. I’m showing this approach for the scenarios where setting up something like ChartMuseum isn’t possible or unwanted. Although this guide uses helm as the example, you can extend this to host anything under a privately authenticated Github page.*
 <!--END_SECTION:blog-->
