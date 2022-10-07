@@ -14,11 +14,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [Mocking APIs with Mockaco | .NET 7](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;QBnXCgZFzM0)
 - [Testing like a PRO with XUnit &amp; Localstack - .NET 7](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ad7wruPBp3M)
 - [Versioning ASP.NET Core MVC &amp; Minimal APIs](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;YRJGKyzjFlY)
 - [New .NET 7 Feature - Regex Source Generator #shorts](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;6x3IYxDtpSo)
 - [Live: Serverless SaaS](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;cxZ2HllKUg0)
-- [The fastest .NET Serializer is NOT what you think](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;XMoNYQPi2k8)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
