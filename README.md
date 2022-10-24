@@ -14,7 +14,7 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
-- [The most under-rated database technology for .NET?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;NA6LXzTu4Q4)
+- [AWS Timestream &amp; .NET - Underrated?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;NA6LXzTu4Q4)
 - [Mocking APIs with Mockaco | .NET 7](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;QBnXCgZFzM0)
 - [Testing like a PRO with XUnit &amp; Localstack - .NET 7](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ad7wruPBp3M)
 - [Versioning ASP.NET Core MVC &amp; Minimal APIs](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;YRJGKyzjFlY)
