@@ -22,6 +22,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Observed No. 1 - VPC Endpoint Policies](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-1-vpc-endpoint-policies&#x2F;) 
+*Welcome to the very first edition of Observed! Each week I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at VPC endpoint policies in AWS.
+What Are VPC Endpoints? VPC endpoints are network interfaces you can create in your VPC to enable communication between your VPC and other AWS services without using an Internet gateway, VPN, or VPC peering.*
 - [ASP.NET Core Versioning: Minimal APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;10&#x2F;asp.net-core-versioning-minimal-apis&#x2F;) 
 *This blog post is also available as a video on my YouTube Channel.
 If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
@@ -34,6 +37,4 @@ Ever wondered how to get docker images to run nicely with XUnit tests? Then you�
 - [Video Content Round Up: June 2022](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;06&#x2F;video-content-round-up-june-2022&#x2F;) 
 *Over the past month I’ve rebooted my YouTube Channel as I’ve had some additional time to sit down and think about how I want things to go moving forward. Here are some of the key updates from the channel. Be sure to take a look and let me know your thoughts.
 Style Updates As with any reboot, you take a look at what’s there initially and see what can be improved.*
-- [3 Ways To Increase App Reliability With Polly](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;02&#x2F;3-ways-to-increase-app-reliability-with-polly&#x2F;) 
-*In this article, we’re going to take a look at the different ways that you can make your .NET applications more stable by using 3 different patterns: Retrying with decorrelated jitter, bulkheads and circuit breakers.*
 <!--END_SECTION:blog-->
