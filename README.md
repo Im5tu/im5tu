@@ -22,6 +22,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Observed No. 2 - Upgrade Your Terraform Modules](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-2-upgrade-your-terraform-modules&#x2F;) 
+*Welcome to the second edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at a technique you can use to upgrade your Terraform modules.
+In case you aren’t sure what a Terraform module is, they are a self-contained package of Terraform configurations managed as a group. Modules can be used to create reusable components, improve organization and structure, and improve the reusability and maintainability of your infrastructure.*
 - [Observed No. 1 - VPC Endpoint Policies](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-1-vpc-endpoint-policies&#x2F;) 
 *Welcome to the very first edition of Observed! Each week I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at VPC endpoint policies in AWS.
 What Are VPC Endpoints? VPC endpoints are network interfaces you can create in your VPC to enable communication between your VPC and other AWS services without using an Internet gateway, VPN, or VPC peering.*
@@ -34,7 +37,4 @@ If your API is a key part of your product you are going to want to version your 
 - [Pro Testing with Xunit &amp; Localstack](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;pro-testing-with-xunit-localstack&#x2F;) 
 *This blog post is also available as a video on my YouTube Channel.
 Ever wondered how to get docker images to run nicely with XUnit tests? Then you’re in the right place. Let me show you how to setup Localstack with XUnit properly so that the only thing you need to worry about is having docker running. I’m using Localstack as the example but you can repeat a very similar process using the techniques shown here.*
-- [Video Content Round Up: June 2022](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;06&#x2F;video-content-round-up-june-2022&#x2F;) 
-*Over the past month I’ve rebooted my YouTube Channel as I’ve had some additional time to sit down and think about how I want things to go moving forward. Here are some of the key updates from the channel. Be sure to take a look and let me know your thoughts.
-Style Updates As with any reboot, you take a look at what’s there initially and see what can be improved.*
 <!--END_SECTION:blog-->
