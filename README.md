@@ -22,6 +22,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Observed No. 3 - Understanding Split Horizon DNS: How it works and How to Implement it in AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-3-understanding-split-horizon-dns-how-it-works-and-how-to-implement-it-in-aws&#x2F;) 
+*Welcome to the third edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at Split Horizon DNS.
+What is Split Horizon DNS? Split Horizon DNS is a technique used in DNS to provide different responses to queries depending on where the query originates. For example, a DNS request originating from inside your network may elicit a different response to a DNS request from a consumer of your application.*
 - [Observed No. 2 - Upgrade Your Terraform Modules](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-2-upgrade-your-terraform-modules&#x2F;) 
 *Welcome to the second edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at a technique you can use to upgrade your Terraform modules.
 In case you aren’t sure what a Terraform module is, they are a self-contained package of Terraform configurations managed as a group. Modules can be used to create reusable components, improve organization and structure, and improve the reusability and maintainability of your infrastructure.*
@@ -34,7 +37,4 @@ If your API is a key part of your product you are going to want to version your 
 - [ASP.NET Core Versioning: MVC APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;asp.net-core-versioning-mvc-apis&#x2F;) 
 *This blog post is also available as a video on my YouTube Channel.
 If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
-- [Pro Testing with Xunit &amp; Localstack](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;pro-testing-with-xunit-localstack&#x2F;) 
-*This blog post is also available as a video on my YouTube Channel.
-Ever wondered how to get docker images to run nicely with XUnit tests? Then you’re in the right place. Let me show you how to setup Localstack with XUnit properly so that the only thing you need to worry about is having docker running. I’m using Localstack as the example but you can repeat a very similar process using the techniques shown here.*
 <!--END_SECTION:blog-->
