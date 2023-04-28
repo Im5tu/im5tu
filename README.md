@@ -22,19 +22,20 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
-- [Observed No. 3 - Understanding Split Horizon DNS: How it works and How to Implement it in AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-3-understanding-split-horizon-dns-how-it-works-and-how-to-implement-it-in-aws&#x2F;) 
-*Welcome to the third edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at Split Horizon DNS.
-What is Split Horizon DNS? Split Horizon DNS is a technique used in DNS to provide different responses to queries depending on where the query originates. For example, a DNS request originating from inside your network may elicit a different response to a DNS request from a consumer of your application.*
-- [Observed No. 2 - Upgrade Your Terraform Modules](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-2-upgrade-your-terraform-modules&#x2F;) 
-*Welcome to the second edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at a technique you can use to upgrade your Terraform modules.
-In case you aren’t sure what a Terraform module is, they are a self-contained package of Terraform configurations managed as a group. Modules can be used to create reusable components, improve organization and structure, and improve the reusability and maintainability of your infrastructure.*
-- [Observed No. 1 - VPC Endpoint Policies](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;01&#x2F;observed-no.-1-vpc-endpoint-policies&#x2F;) 
-*Welcome to the very first edition of Observed! Each week I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at VPC endpoint policies in AWS.
-What Are VPC Endpoints? VPC endpoints are network interfaces you can create in your VPC to enable communication between your VPC and other AWS services without using an Internet gateway, VPN, or VPC peering.*
-- [ASP.NET Core Versioning: Minimal APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;10&#x2F;asp.net-core-versioning-minimal-apis&#x2F;) 
-*This blog post is also available as a video on my YouTube Channel.
-If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
-- [ASP.NET Core Versioning: MVC APIs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2022&#x2F;09&#x2F;asp.net-core-versioning-mvc-apis&#x2F;) 
-*This blog post is also available as a video on my YouTube Channel.
-If your API is a key part of your product you are going to want to version your APIs. One of the major reasons that we consider versioning our api’s is so that we provide a consistent experience for our users. If we consistently change our API’s then our consumers will break, they will get annoyed and eventually leave our product.*
+- [Observed No. 11 - Saving Costs on AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;04&#x2F;observed-no.-11-saving-costs-on-aws&#x2F;) 
+*Welcome to the 11th edition of Observed! The newsletter delivers a tip you can implement across many categories like AWS, Terraform and General DevOps practices in your infrastructure. This week’s edition looks at AWS Cost Savings.
+Every company seems to be cutting costs in one way or another. Let’s look at different ways you can visualize and reduce costs.
+AWS Cost Explorer AWS Cost Explorer should be your first stop when analyzing costs.*
+- [Observed No. 10 - Chaos Engineering on AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-10-chaos-engineering-on-aws&#x2F;) 
+*Welcome to the 10th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at the practice of Chaos Engineering.
+What is Chaos Engineering? Chaos engineering is an innovative approach to testing and enhancing complex systems’ reliability, resilience, and robustness. Born out of a need to ensure system stability in the face of unpredictable events, chaos engineering involves intentionally injecting faults, errors, and failures into a system to evaluate its behaviour and improve its ability to withstand such occurrences.*
+- [Using the Builder Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;using-the-builder-design-pattern-in-.net&#x2F;) 
+*As a .NET developer, you’re probably familiar with the importance of design patterns for creating maintainable and flexible code. The Builder pattern is one of the most potent creational patterns in the .NET ecosystem. In this blog post, we’ll dive deep into the Builder design pattern, explaining what it is, what problems it solves, how to implement it in C#, and answering frequently asked questions.
+What is the builder design pattern?*
+- [Observed No. 9 - SLIs vs SLOs vs SLAs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-9-slis-vs-slos-vs-slas&#x2F;) 
+*Welcome to the 9th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition examines the differences between SLIs, SLOs and SLAs.
+When it comes to measuring the quality of your service, three terms are frequently used: Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Service Level Agreements (SLAs).*
+- [Observed No. 8 - Continuous Integration vs Continuous Delivery vs Continuous Deployment](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-8-continuous-integration-vs-continuous-delivery-vs-continuous-deployment&#x2F;) 
+*Welcome to the 8th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at the differences between continuous integration, continuous delivery and continuous deployment.
+Continuous Integration Continuous Integration (CI) is the act of integrating code changes into a shared repository, and automated tests verify each integration. The aim is to catch and fix errors early in the development cycle rather than waiting for a significant release.*
 <!--END_SECTION:blog-->
