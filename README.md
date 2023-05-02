@@ -22,6 +22,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Observed No. 12 - Removing Pre-Commit Dependencies With Docker](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;observed-no.-12-removing-pre-commit-dependencies-with-docker&#x2F;) 
+*Welcome to the 12th edition of Observed! The newsletter delivers a tip you can implement across many categories like AWS, Terraform and General DevOps practices in your infrastructure. This week’s edition looks how we can use Precommit with existing docker images.
+What is Pre-Commit? Pre-commit is a tool that helps developers to ensure that the code they commit is consistent with the project’s guidelines and standards. This framework allows developers to define a set of hooks or scripts to run before a commit is made to a Git repository.*
 - [Observed No. 11 - Saving Costs on AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;04&#x2F;observed-no.-11-saving-costs-on-aws&#x2F;) 
 *Welcome to the 11th edition of Observed! The newsletter delivers a tip you can implement across many categories like AWS, Terraform and General DevOps practices in your infrastructure. This week’s edition looks at AWS Cost Savings.
 Every company seems to be cutting costs in one way or another. Let’s look at different ways you can visualize and reduce costs.
@@ -35,7 +38,4 @@ What is the builder design pattern?*
 - [Observed No. 9 - SLIs vs SLOs vs SLAs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-9-slis-vs-slos-vs-slas&#x2F;) 
 *Welcome to the 9th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition examines the differences between SLIs, SLOs and SLAs.
 When it comes to measuring the quality of your service, three terms are frequently used: Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Service Level Agreements (SLAs).*
-- [Observed No. 8 - Continuous Integration vs Continuous Delivery vs Continuous Deployment](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-8-continuous-integration-vs-continuous-delivery-vs-continuous-deployment&#x2F;) 
-*Welcome to the 8th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at the differences between continuous integration, continuous delivery and continuous deployment.
-Continuous Integration Continuous Integration (CI) is the act of integrating code changes into a shared repository, and automated tests verify each integration. The aim is to catch and fix errors early in the development cycle rather than waiting for a significant release.*
 <!--END_SECTION:blog-->
