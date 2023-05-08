@@ -22,6 +22,8 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Using The Singleton Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;using-the-singleton-design-pattern-in-.net&#x2F;) 
+*As a .NET developer, you understand the importance of writing efficient, scalable, and maintainable code. One design pattern that can help achieve these goals is the Singleton pattern. The Singleton pattern is a creational pattern that ensures only one instance of a class is created and provides global access to that instance throughout the application. In this blog post, we’ll look in-depth at the Singleton pattern, exploring its benefits, use cases, and implementation in C#.*
 - [Observed No. 12 - Removing Pre-Commit Dependencies With Docker](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;observed-no.-12-removing-pre-commit-dependencies-with-docker&#x2F;) 
 *Welcome to the 12th edition of Observed! The newsletter delivers a tip you can implement across many categories like AWS, Terraform and General DevOps practices in your infrastructure. This week’s edition looks how we can use Precommit with existing docker images.
 What is Pre-Commit? Pre-commit is a tool that helps developers to ensure that the code they commit is consistent with the project’s guidelines and standards. This framework allows developers to define a set of hooks or scripts to run before a commit is made to a Git repository.*
@@ -35,7 +37,4 @@ What is Chaos Engineering? Chaos engineering is an innovative approach to testin
 - [Using the Builder Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;using-the-builder-design-pattern-in-.net&#x2F;) 
 *As a .NET developer, you’re probably familiar with the importance of design patterns for creating maintainable and flexible code. The Builder pattern is one of the most potent creational patterns in the .NET ecosystem. In this blog post, we’ll dive deep into the Builder design pattern, explaining what it is, what problems it solves, how to implement it in C#, and answering frequently asked questions.
 What is the builder design pattern?*
-- [Observed No. 9 - SLIs vs SLOs vs SLAs](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-9-slis-vs-slos-vs-slas&#x2F;) 
-*Welcome to the 9th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition examines the differences between SLIs, SLOs and SLAs.
-When it comes to measuring the quality of your service, three terms are frequently used: Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Service Level Agreements (SLAs).*
 <!--END_SECTION:blog-->
