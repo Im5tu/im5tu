@@ -14,11 +14,11 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 
 ### Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [2 MUST USE features for dotnet test debugging](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;JTmIO21KmGw)
 - [Saying Hello To The Newest .NET Community - WeAreDotnet!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;nPkNC1msADc)
 - [Unlocking the best of AWS Route 53](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;oKyouRHsSVw)
 - [How to Use AWS IAM Identity Centre with Terraform](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CfA-pOQK8Fg)
 - [Create Terraform Modules Like A Pro](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;UvuFWued8_M)
-- [The Way You Publish Apps Is Changing | .NET 7](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;a88szDQ1AEo)
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
