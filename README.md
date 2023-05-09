@@ -22,6 +22,8 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Using The Decorator Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;using-the-decorator-design-pattern-in-.net&#x2F;) 
+*The Decorator design pattern is a widely-used technique for extending the functionality of an existing object or component. By wrapping an object in a series of decorators, you can add new behaviours, features, or properties without modifying the underlying code. This makes it a powerful and flexible way to customize and extend software systems. In .NET, the Decorator design pattern can be used in various ways to enhance and modify existing classes and components, which can help you write more maintainable, extensible, and flexible code.*
 - [Using The Singleton Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;using-the-singleton-design-pattern-in-.net&#x2F;) 
 *As a .NET developer, you understand the importance of writing efficient, scalable, and maintainable code. One design pattern that can help achieve these goals is the Singleton pattern. The Singleton pattern is a creational pattern that ensures only one instance of a class is created and provides global access to that instance throughout the application. In this blog post, we’ll look in-depth at the Singleton pattern, exploring its benefits, use cases, and implementation in C#.*
 - [Observed No. 12 - Removing Pre-Commit Dependencies With Docker](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;observed-no.-12-removing-pre-commit-dependencies-with-docker&#x2F;) 
@@ -34,7 +36,4 @@ AWS Cost Explorer AWS Cost Explorer should be your first stop when analyzing cos
 - [Observed No. 10 - Chaos Engineering on AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-10-chaos-engineering-on-aws&#x2F;) 
 *Welcome to the 10th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at the practice of Chaos Engineering.
 What is Chaos Engineering? Chaos engineering is an innovative approach to testing and enhancing complex systems’ reliability, resilience, and robustness. Born out of a need to ensure system stability in the face of unpredictable events, chaos engineering involves intentionally injecting faults, errors, and failures into a system to evaluate its behaviour and improve its ability to withstand such occurrences.*
-- [Using the Builder Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;using-the-builder-design-pattern-in-.net&#x2F;) 
-*As a .NET developer, you’re probably familiar with the importance of design patterns for creating maintainable and flexible code. The Builder pattern is one of the most potent creational patterns in the .NET ecosystem. In this blog post, we’ll dive deep into the Builder design pattern, explaining what it is, what problems it solves, how to implement it in C#, and answering frequently asked questions.
-What is the builder design pattern?*
 <!--END_SECTION:blog-->
