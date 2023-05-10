@@ -22,6 +22,9 @@ I'm Stu, it's a pleasure to e-meet you! I'm a principal software engineer helpin
 <!--END_SECTION:youtube-->
 ### Recent Blog Posts
 <!--START_SECTION:blog-->
+- [Using The Factory Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;using-the-factory-design-pattern-in-.net&#x2F;) 
+*The Factory Design pattern is a popular technique for creating objects in .NET applications. It allows developers to create objects without specifying the exact class of object that will be created, making it an excellent option for improving code flexibility and maintainability. This article will explore the concept behind the Factory Design pattern, its benefits, and how it can be implemented in C# code.
+What is the Factory Design Pattern? The Factory Design pattern is a creational pattern that provides an interface for creating objects in a superclass while allowing subclasses to alter the type of objects created.*
 - [Using The Decorator Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;using-the-decorator-design-pattern-in-.net&#x2F;) 
 *The Decorator design pattern is a widely-used technique for extending the functionality of an existing object or component. By wrapping an object in a series of decorators, you can add new behaviours, features, or properties without modifying the underlying code. This makes it a powerful and flexible way to customize and extend software systems. In .NET, the Decorator design pattern can be used in various ways to enhance and modify existing classes and components, which can help you write more maintainable, extensible, and flexible code.*
 - [Using The Singleton Design Pattern in .NET](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;05&#x2F;using-the-singleton-design-pattern-in-.net&#x2F;) 
@@ -33,7 +36,4 @@ What is Pre-Commit? Pre-commit is a tool that helps developers to ensure that th
 *Welcome to the 11th edition of Observed! The newsletter delivers a tip you can implement across many categories like AWS, Terraform and General DevOps practices in your infrastructure. This week’s edition looks at AWS Cost Savings.
 Every company seems to be cutting costs in one way or another. Let’s look at different ways you can visualize and reduce costs.
 AWS Cost Explorer AWS Cost Explorer should be your first stop when analyzing costs.*
-- [Observed No. 10 - Chaos Engineering on AWS](https:&#x2F;&#x2F;im5tu.io&#x2F;article&#x2F;2023&#x2F;03&#x2F;observed-no.-10-chaos-engineering-on-aws&#x2F;) 
-*Welcome to the 10th edition of Observed! Your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week’s edition looks at the practice of Chaos Engineering.
-What is Chaos Engineering? Chaos engineering is an innovative approach to testing and enhancing complex systems’ reliability, resilience, and robustness. Born out of a need to ensure system stability in the face of unpredictable events, chaos engineering involves intentionally injecting faults, errors, and failures into a system to evaluate its behaviour and improve its ability to withstand such occurrences.*
 <!--END_SECTION:blog-->
