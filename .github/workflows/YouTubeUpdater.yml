@@ -1,0 +1,20 @@
+name: Update readme with YouTube videos
+on:
+  workflow_dispatch:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+  push:
+    branches: [ master ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://www.youtube.com/feeds/videos.xml?channel_id=UCF5dh7bm49bpsZjWHYDG4Lg
+          readme-section: youtube
+          max: 5 # max number of items (default 5)
+          template: "- [{{ title }}]({{ link }})"
+          empty-commits: false
