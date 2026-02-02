@@ -20,9 +20,9 @@ A collection of reusable OpenTofu/Terraform modules for AWS infrastructure.
 
 ## Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [I benchmarked all .NET serializers for .NET 10](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;QSxZJ1kzq48)
 - [Guided Tours... But for Code?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;pUzFZKVlPtk)
 - [2 MUST USE features for dotnet test debugging](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;JTmIO21KmGw)
 - [Saying Hello To The Newest .NET Community - WeAreDotnet!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;nPkNC1msADc)
 - [Unlocking the best of AWS Route 53](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;oKyouRHsSVw)
-- [How to Use AWS IAM Identity Centre with Terraform](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;CfA-pOQK8Fg)
 <!--END_SECTION:youtube-->
