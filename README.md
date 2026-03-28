@@ -7,9 +7,9 @@ You can watch my [YouTube](https://www.youtube.com/@CodeWithStu?sub_confirmation
 
 ## Recent YouTube videos
 <!--START_SECTION:youtube-->
+- [How I Fixed The Bottleneck That Killed 700+ Lambdas](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;iRaqyrAFHFg)
 - [I benchmarked all .NET serializers for .NET 10](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;QSxZJ1kzq48)
 - [Guided Tours... But for Code?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;pUzFZKVlPtk)
 - [2 MUST USE features for dotnet test debugging](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;JTmIO21KmGw)
 - [Saying Hello To The Newest .NET Community - WeAreDotnet!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;nPkNC1msADc)
-- [Unlocking the best of AWS Route 53](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;oKyouRHsSVw)
 <!--END_SECTION:youtube-->
